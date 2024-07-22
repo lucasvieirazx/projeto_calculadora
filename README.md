@@ -1,2 +1,2 @@
 # projeto_calculadora
-Repositório do meu projeto_calculadora utilizando Python.
+Neste projeto, utilizei a bibioteca 'tkinter' da linguagem 'Python' para criar uma calculadora
