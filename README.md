@@ -3,7 +3,7 @@
 <h2>Descrição</h2>
 <p>Neste projeto, fiz uma calculadora científica. Utilizei a bibioteca 'tkinter' da linguagem 'Python' para criar uma calculadora.</p><br>
 
-<h2>Funcionalidedes</h2>
+<h2>Funcionalidades</h2>
 <ul>
  <li>Funções Matemáticas Avançadas.</li>
  <li>Cálculos Estatísticos e Matrizes.</i></li>
